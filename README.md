@@ -41,10 +41,7 @@ const pratham = {
   status: "Building embedded systems projects 🔧",
   openTo: ["Embedded Systems projects", "Collaboration"],
 };
-```
-
----
-
+--
 ## 🚀 Featured Projects
 
 ### 🚦 Smart Traffic Management according to Vehicle Density
